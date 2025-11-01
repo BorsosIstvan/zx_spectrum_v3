@@ -1,0 +1,47 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="cpu/cpu_z80_a.v" type="file.verilog" enable="1"/>
+        <File path="io/audio/audio_io.v" type="file.verilog" enable="1"/>
+        <File path="io/decoder.v" type="file.verilog" enable="1"/>
+        <File path="io/int_50hz.v" type="file.verilog" enable="1"/>
+        <File path="io/keyboard/keyboard_io.v" type="file.verilog" enable="1"/>
+        <File path="io/keyboard/uart_rx.v" type="file.verilog" enable="1"/>
+        <File path="ram/ram_reg.v" type="file.verilog" enable="1"/>
+        <File path="ram/rom0_reg.v" type="file.verilog" enable="1"/>
+        <File path="ram/rom1_reg.v" type="file.verilog" enable="1"/>
+        <File path="src/freq_gen.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_osc.v" type="file.verilog" enable="1"/>
+        <File path="src/pilot_detector.v" type="file.verilog" enable="1"/>
+        <File path="src/ram0.v" type="file.verilog" enable="1"/>
+        <File path="src/ram1.v" type="file.verilog" enable="1"/>
+        <File path="src/sync_detector.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_bit_reader.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_capture.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_mem.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_playback.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_playback_test.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_rec_auto.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_rec_auto_led.v" type="file.verilog" enable="1"/>
+        <File path="src/tape_recorder.v" type="file.verilog" enable="1"/>
+        <File path="src/top.v" type="file.verilog" enable="1"/>
+        <File path="video/datapijp_fb.v" type="file.verilog" enable="1"/>
+        <File path="video/dvi_tx/dvi_tx.v" type="file.verilog" enable="1"/>
+        <File path="video/gowin_clkdiv/gowin_clkdiv_25_mhz.v" type="file.verilog" enable="1"/>
+        <File path="video/gowin_dpb/gowin_dpb.v" type="file.verilog" enable="1"/>
+        <File path="video/gowin_rpll/gowin_rpll_125_mhz.v" type="file.verilog" enable="1"/>
+        <File path="video/hdmi.v" type="file.verilog" enable="1"/>
+        <File path="video/timing_1024x768.v" type="file.verilog" enable="1"/>
+        <File path="cpu/T80_A/T80.vhd" type="file.vhdl" enable="1"/>
+        <File path="cpu/T80_A/T80_ALU.vhd" type="file.vhdl" enable="1"/>
+        <File path="cpu/T80_A/T80_MCode.vhd" type="file.vhdl" enable="1"/>
+        <File path="cpu/T80_A/T80_Pack.vhd" type="file.vhdl" enable="1"/>
+        <File path="cpu/T80_A/T80_Reg.vhd" type="file.vhdl" enable="1"/>
+        <File path="cpu/T80_A/T80a.vhd" type="file.vhdl" enable="1"/>
+        <File path="io/zx-spectrum.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

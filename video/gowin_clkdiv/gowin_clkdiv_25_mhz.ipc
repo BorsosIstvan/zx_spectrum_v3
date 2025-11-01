@@ -1,0 +1,12 @@
+[General]
+ipc_version=4
+file=gowin_clkdiv_25_mhz
+module=Gowin_CLKDIV_25_mhz
+target_device=gw1nr9c-004
+type=clock_clkdiv
+version=1.0
+
+[Config]
+Calibration=false
+Division_Factor=5
+Language=0

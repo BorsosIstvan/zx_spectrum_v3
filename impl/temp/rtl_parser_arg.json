@@ -1,0 +1,167 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/cpu_z80_a.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/io/audio/audio_io.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/io/decoder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/io/int_50hz.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/io/keyboard/keyboard_io.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/io/keyboard/uart_rx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/ram/ram_reg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/ram/rom0_reg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/ram/rom1_reg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/freq_gen.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/gowin_osc.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/pilot_detector.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/ram0.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/ram1.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/sync_detector.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_bit_reader.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_capture.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_mem.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_playback.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_playback_test.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_rec_auto.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_rec_auto_led.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/tape_recorder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/src/top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/datapijp_fb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/dvi_tx/dvi_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/gowin_clkdiv/gowin_clkdiv_25_mhz.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/gowin_dpb/gowin_dpb.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/gowin_rpll/gowin_rpll_125_mhz.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/hdmi.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/video/timing_1024x768.v",
+   "Type" : "verilog"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/T80_A/T80.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/T80_A/T80_ALU.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/T80_A/T80_MCode.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/T80_A/T80_Pack.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/T80_A/T80_Reg.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/cpu/T80_A/T80a.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Gebruiker/Documents/Mij werks/FPGA/fpga-zx-spectrum/zx_spectrum_v3/impl/temp/rtl_parser.result",
+ "Top" : "top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

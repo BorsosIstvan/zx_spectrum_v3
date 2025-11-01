@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Lut="4" T_Register="793(0)" T_Alu="169(0)" T_Lut="2647(4)" T_Bsram="25(0)" T_Ssram="12(0)">
+ <SubModule name="my_hdmi" Register="73" Alu="69" Lut="228" T_Register="152(73)" T_Alu="69(69)" T_Lut="310(228)">
+  <SubModule name="timing1024x768" Register="25" Lut="48" T_Register="25(25)" T_Lut="48(48)"/>
+  <SubModule name="clk_125"/>
+  <SubModule name="clk_25"/>
+  <SubModule name="dpijp" Register="54" Lut="34" T_Register="54(54)" T_Lut="34(34)"/>
+ </SubModule>
+ <SubModule name="gw_dram" Bsram="4" T_Bsram="4(4)"/>
+ <SubModule name="ula" Lut="9" T_Lut="9(9)"/>
+ <SubModule name="Z80A" T_Register="542(0)" T_Alu="85(0)" T_Lut="2032(0)" T_Bsram="1(0)" T_Ssram="12(0)">
+  <SubModule name="cpu" Register="15" Lut="17" T_Register="542(15)" T_Alu="85(0)" T_Lut="2032(17)" T_Bsram="1(0)" T_Ssram="12(0)">
+   <SubModule name="u0" Register="527" Alu="78" Lut="1686" Bsram="1" T_Register="527(527)" T_Alu="85(78)" T_Lut="2015(1686)" T_Bsram="1(1)" T_Ssram="12(0)">
+    <SubModule name="mcode" Lut="306" T_Lut="306(306)"/>
+    <SubModule name="alu" Alu="7" Lut="23" T_Alu="7(7)" T_Lut="23(23)"/>
+    <SubModule name="Regs" Ssram="12" T_Ssram="12(12)"/>
+   </SubModule>
+  </SubModule>
+ </SubModule>
+ <SubModule name="i30" Register="18" Alu="15" Lut="8" T_Register="18(18)" T_Alu="15(15)" T_Lut="8(8)"/>
+ <SubModule name="rom0" Lut="2" Bsram="4" T_Lut="2(2)" T_Bsram="4(4)"/>
+ <SubModule name="rom1" Lut="1" Bsram="4" T_Lut="1(1)" T_Bsram="4(4)"/>
+ <SubModule name="ram3" Lut="4" Bsram="4" T_Lut="4(4)" T_Bsram="4(4)"/>
+ <SubModule name="ram4" Lut="2" Bsram="4" T_Lut="2(2)" T_Bsram="4(4)"/>
+ <SubModule name="ram5" Lut="2" Bsram="4" T_Lut="2(2)" T_Bsram="4(4)"/>
+ <SubModule name="keyboard" Register="40" Lut="219" T_Register="81(40)" T_Lut="273(219)">
+  <SubModule name="uart_rx_inst" Register="41" Lut="54" T_Register="41(41)" T_Lut="54(54)"/>
+ </SubModule>
+ <SubModule name="osc"/>
+</Module>
