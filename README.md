@@ -30,7 +30,7 @@ Sound via HDMI
 
 1. **Clone this repository**
    ``` https://github.com/BorsosIstvan/zx_spectrum_v3.git```
-2. Install the Gowin IDE (latest version recommended).
+2. Install the Gowin IDE (latest version recommended).```https://www.gowinsemi.com/en/support/home/```
 3. Obtain a Tang Nano 9K or 20K FPGA board.
 4. Open the project in Gowin IDE ```zx_spectrum_v3.gprj```
 5. Connect the Tang Nano board via USB.
@@ -69,7 +69,7 @@ Geluid via HDMI
 ### Gebruik
 
 1. **Kloon deze repository**  ``` https://github.com/BorsosIstvan/zx_spectrum_v3.git```
-2. Installeer de Gowin IDE (bij voorkeur de nieuwste versie).
+2. Installeer de Gowin IDE (bij voorkeur de nieuwste versie).```https://www.gowinsemi.com/en/support/home/```
 3. Koop een Tang Nano 9K of 20K FPGA-board.
 4. Open het project in Gowin IDE  ```zx_spectrum_v3.gprj```
 5. Verbind de Tang Nano via USB.
@@ -108,7 +108,7 @@ Hang HDMI-n keresztül
 ### Használat
 
 1. **Klonozd le a repository-t**  ``` https://github.com/BorsosIstvan/zx_spectrum_v3.git```
-2. Telepítsd a Gowin IDE-t (lehetőleg a legújabb verziót).
+2. Telepítsd a Gowin IDE-t (lehetőleg a legújabb verziót).```https://www.gowinsemi.com/en/support/home/```
 3. Szerezz be egy Tang Nano 9K vagy 20K FPGA panelt.
 4. Nyisd meg a projektet a Gowin IDE-ben  ```zx_spectrum_v3.gprj```
 5. Csatlakoztasd a Tang Nano-t USB-n keresztül.
