@@ -2,13 +2,13 @@
 ## English (EN)
 ### Overview
 
-This project implements a ZX Spectrum on a Tang Nano 9K FPGA. It runs classic Spectrum BASIC programs and supports automated typing via the included my_fsm module.
+This project implements a ZX Spectrum on a Tang Nano 9K FPGA. It runs classic Spectrum BASIC programs and supports typing via the included io module.
 
 ### Features
 
 Runs ZX Spectrum BASIC programs
 
-Typist module (my_fsm) for automated program entry
+Io module for type.
 
 HDMI output: 1024x768 @ 24Hz (4x scale), no border
 
@@ -29,10 +29,10 @@ Sound via HDMI
 ### Usage
 
 1. **Clone this repository**
-   ``` https://github.com/BorsosIstvan/zx_spectrum_v1.git```
+   ``` https://github.com/BorsosIstvan/zx_spectrum_v3.git```
 2. Install the Gowin IDE (latest version recommended).
 3. Obtain a Tang Nano 9K or 20K FPGA board.
-4. Open the project in Gowin IDE ```zx_spectrum_v1.gprj```
+4. Open the project in Gowin IDE ```zx_spectrum_v3.gprj```
 5. Connect the Tang Nano board via USB.
 6. Program the FPGA directly from Gowin IDE.
 7. Connect the FPGA to a TV/monitor using HDMI.
@@ -42,13 +42,13 @@ Sound via HDMI
 ## Nederlands (NL)
 ### Overzicht
 
-Dit project implementeert een ZX Spectrum op een Tang Nano 9K FPGA. Het kan klassieke Spectrum BASIC-programma’s draaien en ondersteunt automatisch typen via de my_fsm module.
+Dit project implementeert een ZX Spectrum op een Tang Nano 9K FPGA. Het kan klassieke Spectrum BASIC-programma’s draaien en ondersteunt typen via de io module.
 
 ### Functies
 
 Draait ZX Spectrum BASIC-programma’s
 
-Typist module (my_fsm) voor automatisch invoeren van programma’s
+Io module voor typen.
 
 HDMI-uitvoer: 1024x768 @ 24Hz (4x scale), geen border
 
@@ -68,10 +68,10 @@ Geluid via HDMI
 
 ### Gebruik
 
-1. **Kloon deze repository**  ``` https://github.com/BorsosIstvan/zx_spectrum_v1.git```
+1. **Kloon deze repository**  ``` https://github.com/BorsosIstvan/zx_spectrum_v3.git```
 2. Installeer de Gowin IDE (bij voorkeur de nieuwste versie).
 3. Koop een Tang Nano 9K of 20K FPGA-board.
-4. Open het project in Gowin IDE  ```zx_spectrum_v1.gprj```
+4. Open het project in Gowin IDE  ```zx_spectrum_v3.gprj```
 5. Verbind de Tang Nano via USB.
 6. Programmeerd de FPGA rechtstreeks vanuit Gowin IDE.
 7. Sluit de FPGA via HDMI aan op een TV of monitor.
@@ -81,13 +81,13 @@ Geluid via HDMI
 ## Magyar (HU)
 ### Áttekintés
 
-Ez a projekt egy ZX Spectrumot valósít meg Tang Nano 9K FPGA-n. Klasszikus Spectrum BASIC programokat futtat, és támogatja az automatikus gépelést a my_fsm modul segítségével.
+Ez a projekt egy ZX Spectrumot valósít meg Tang Nano 9K FPGA-n. Klasszikus Spectrum BASIC programokat futtat, és támogatja a gépelést az io modul segítségével.
 
 ### Funkciók
 
 Futtatja a ZX Spectrum BASIC programokat
 
-Typist modul (my_fsm) az automatikus programbevitelhez
+Io modul gépeléshez.
 
 HDMI kimenet: 1024x768 @ 24Hz (4x scale), nincs border
 
@@ -107,10 +107,10 @@ Hang HDMI-n keresztül
 
 ### Használat
 
-1. **Klonozd le a repository-t**  ``` https://github.com/BorsosIstvan/zx_spectrum_v1.git```
+1. **Klonozd le a repository-t**  ``` https://github.com/BorsosIstvan/zx_spectrum_v3.git```
 2. Telepítsd a Gowin IDE-t (lehetőleg a legújabb verziót).
 3. Szerezz be egy Tang Nano 9K vagy 20K FPGA panelt.
-4. Nyisd meg a projektet a Gowin IDE-ben  ```zx_spectrum_v1.gprj```
+4. Nyisd meg a projektet a Gowin IDE-ben  ```zx_spectrum_v3.gprj```
 5. Csatlakoztasd a Tang Nano-t USB-n keresztül.
 6. Programozd be az FPGA-t közvetlenül a Gowin IDE-ből.
 7. Csatlakoztasd a panelt HDMI-n keresztül egy TV-hez vagy monitorhoz.
